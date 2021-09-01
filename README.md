@@ -6,3 +6,5 @@
  ```
  <StartupObject>AlgoritmosComCSharp.CodeForces.SpaceNavigation</StartupObject>
  ```
+ AlgoritmosComCSharp.CodeForces = namespace
+ SpaceNavigation = classe
