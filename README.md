@@ -7,4 +7,4 @@
  ```
  <StartupObject>AlgoritmosComCSharp.CodeForces.SpaceNavigation</StartupObject>
  ```
- Onde "AlgoritmosComCSharp.CodeForces" é o namespace e "SpaceNavigation" é a classe
+ Onde "AlgoritmosComCSharp.CodeForces" é o namespace e "SpaceNavigation" é a classe que foi nomeada com o nome do desafio.
