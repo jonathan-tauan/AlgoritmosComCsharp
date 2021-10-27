@@ -8,7 +8,7 @@ namespace AlgoritmosCsharp.DIO
         {
             double a, b, c;
 
-            char[] values = Console.ReadLine().Split(" ");
+            string[] values = Console.ReadLine().Split(" ");
             a = Convert.ToDouble(values[0]);
             b = Convert.ToDouble(values[1]);
             c = Convert.ToDouble(values[2]);
