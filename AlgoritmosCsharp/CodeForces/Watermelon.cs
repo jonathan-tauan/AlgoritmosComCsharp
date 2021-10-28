@@ -18,7 +18,6 @@ namespace AlgoritmosCsharp.CodeForces
             {
                 Console.WriteLine("NO");
             }
-
         }
     }
 }
