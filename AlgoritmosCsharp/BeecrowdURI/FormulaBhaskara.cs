@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AlgoritmosCsharp.DIO
+namespace AlgoritmosCsharp.BeecrowdURI
 {
     class FormulaBhaskara
     {
