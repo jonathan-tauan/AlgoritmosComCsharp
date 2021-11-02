@@ -7,7 +7,6 @@ namespace AlgoritmosCsharp.BeecrowdURI
     {
         static void Main(string[] args)
         {
-
             string[] product1 = Console.ReadLine().Split();
             int c1 = int.Parse(product1[0]);
             int u1 = int.Parse(product1[1]);
