@@ -22,6 +22,7 @@ namespace AlgoritmosCsharp.CodeForces
                     count++;
                 }
             }
+
             Console.WriteLine(count);
         }
     }
