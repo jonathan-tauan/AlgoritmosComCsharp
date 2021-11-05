@@ -9,6 +9,7 @@ namespace AlgoritmosComCSharp.DIO
             int valorLido = int.Parse(Console.ReadLine());
             int[] n = new int[10];
             n[0] = valorLido;
+            
             for (int j = 1; j <=9;j++)
             {
                 n[j] = n[j-1] * 2;
