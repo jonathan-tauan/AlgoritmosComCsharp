@@ -16,6 +16,7 @@ namespace AlgoritmosComCSharp.DIO
             }
 
             int i = 0;
+            
             foreach (int cont in n)
             {
                 Console.WriteLine("N["+i+"] = " + cont);
