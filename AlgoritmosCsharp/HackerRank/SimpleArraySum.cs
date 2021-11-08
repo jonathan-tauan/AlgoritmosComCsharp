@@ -1,20 +1,10 @@
-﻿using System.CodeDom.Compiler;
-using System.Collections.Generic;
-using System.Collections;
-using System.ComponentModel;
-using System.Diagnostics.CodeAnalysis;
-using System.Globalization;
+﻿using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Reflection;
-using System.Runtime.Serialization;
-using System.Text.RegularExpressions;
-using System.Text;
 using System;
 
 namespace AlgoritmosCsharp.HackerRank
 {
-
     class Result
     {
         /*
@@ -34,16 +24,14 @@ namespace AlgoritmosCsharp.HackerRank
             }
 
             return sum;
-
         }
-
     }
 
     class SimpleArraySum
     {
         public static void Main(string[] args)
         {
-            TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), false);
+            TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
             int arCount = Convert.ToInt32(Console.ReadLine().Trim());
 
