@@ -15,7 +15,6 @@ namespace AlgoritmosCsharp.BeecrowdURI
 
             double ba2 = Math.Pow(b, 2);
             double a4c = 4 * a * c;
-
             double delta = ba2 - a4c;
 
             if((delta < 0) || (a==0))
