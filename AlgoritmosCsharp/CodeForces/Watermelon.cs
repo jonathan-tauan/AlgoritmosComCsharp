@@ -6,11 +6,11 @@ namespace AlgoritmosCsharp.CodeForces
     {
         static void Main(string[] args)
         {
-            byte w;
+            byte m;
 
-            w = byte.Parse(Console.ReadLine());
+            m = byte.Parse(Console.ReadLine());
 
-            if (w%2 == 0 && w > 2)
+            if (m%2 == 0 && m > 2)
             {
                 Console.WriteLine("YES");
             }
