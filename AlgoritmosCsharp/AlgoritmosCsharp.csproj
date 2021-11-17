@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>AlgoritmosCsharp.HackerRank.SimpleArraySum</StartupObject>
+    <StartupObject>AlgoritmosCsharp.HackerRank.CompareTheTriplets</StartupObject>
   </PropertyGroup>
 
 </Project>
